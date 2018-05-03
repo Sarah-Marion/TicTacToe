@@ -8,7 +8,8 @@
 
 ## Description
 
-A game where two users can compete with each other or aginst the computer.
+> A game where two users can compete with each other or aginst the computer.
+> Python version 3.6
 
 ## Tic-Tac-Toe Rules
 
